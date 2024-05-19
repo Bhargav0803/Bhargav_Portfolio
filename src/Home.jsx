@@ -4,8 +4,8 @@ import {
   AiFillTwitterCircle,
   AiFillGithub,
 } from "react-icons/ai";
-import pic from "../src/images/profile.jpg";
-import logo from "./images/logo.png";
+import pic from "../src/assets/profile.jpg";
+import logo from "./assets/logo.png";
 import { useDarkMode } from "./DarkModeContext";
 import Switch from "react-switch";
 

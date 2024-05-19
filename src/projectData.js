@@ -1,8 +1,8 @@
-import pulse from "./images/pulse.png";
-import abs from "./images/abs.png";
-import adopt from "./images/adopt.png";
-import news from "./images/news.jpg";
-import exer from "./images/exer.png";
+import pulse from "./assets/pulse.png";
+import abs from "./assets/abs.png";
+import adopt from "./assets/adopt.png";
+import news from "./assets/news.jpg";
+import exer from "./assets/exer.png";
 
 export const projectData = [
   {
